@@ -1,0 +1,16 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "first node app",
+  "main": "currency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Brost",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "moment": "^2.22.1"
+  },
+  "devDependencies": {}
+}
